@@ -1,7 +1,7 @@
 # Mobile Price Range Prediction
 ![image](https://github.com/Souvik-karmakar/Mobile_Price_Range_Prediction/assets/78291973/0b13b04b-ec79-49d4-8996-139691c00d7b)
 
-
+## Problem Type :- Classification.
 ## Problem Statement
 
 In the competitive mobile phone market, companies want to understand the sales data of mobile phones and the factors driving the prices. Mobile phones come in all sorts of prices, features, and specifications, making price estimation a crucial part of consumer strategy. The objective of this project is to identify the relationship between the features of a mobile phone and its selling price. Instead of predicting the actual prices, we classify the price range indicating how high the price is. The dataset contains 2000 records of mobile phone information with 21 features, including both categorical and numerical features.
