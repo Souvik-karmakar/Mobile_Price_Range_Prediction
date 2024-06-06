@@ -71,6 +71,3 @@ Students will gain a better understanding of how variables are linked and how ED
 
 This project demonstrates the process of understanding mobile phone features and their impact on price ranges. By employing techniques like EDA, feature selection, and model training, we can effectively classify mobile phones into different price ranges, aiding in better consumer strategy and decision-making.
 
----
-
-Feel free to adjust any section to better fit your project's specifics or to add any additional details you find necessary.
